@@ -1,6 +1,6 @@
-- 👋 Hi, I’m <strong>@BobDelaney</strong>. I live in Ontario, Canada, and spent 15 years as an elected representatrive in the Ontario Legislature. I have more than 20 years experience in marketing and public relations, as well as an MBA.
+- 👋 Hi, I’m <strong>@BobDelaney</strong>. I live in Ontario, Canada, and spent 15 years as a Member of Provincial Parliament in the Ontario Legislature. I have more than 20 years experience in marketing and public relations, as well as an MBA.
 - 👀 I’m interested in developing WordPress plug-ins and specialty widgets.
-- 🌱 I’m currently learning PHP, and <em>always</em> learning JavaScript and C# on Visual Studio.
+- 🌱 I’m currently learning PHP, and <em>always</em> sharpening my JavaScript and C# skills on Visual Studio.
 - 💞️ I’m looking to collaborate on, or help test and market, an Office 365 application that uses the Windows and Office 365 APIs to create and manage PDF files.
 - 📫 How to reach me: try my web site at <a href="http://www.bobdelaney.com" target="_blank" title="Bob Delaney's personal web site"><strong>bobdelaney.com</strong></a>, or e-mail me at mailbox@bobdelaney.com
 
